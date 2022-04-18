@@ -5,4 +5,3 @@ Used database -> http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.ht
 
 
 
-Eduardo Cardoso | João Luiz Borges | Kevin Souza
